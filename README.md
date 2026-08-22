@@ -1,33 +1,22 @@
-# 🚀 Trivoren
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TRIVOREN&fontSize=70&fontAlignY=35&animation=twinkling"/>
-</p>
+<img src="./assets/trivoren-banner.jpg" alt="Trivoren - Custom Website Design & SEO Optimization" width="100%" />
 
-<h3 align="center">
-  Web Development • Digital Products • Technology
-</h3>
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=We+Build+Modern+Digital+Experiences;Web+Development+%7C+UI%2FUX+%7C+Technology;Turning+Ideas+Into+Digital+Products;Design.+Develop.+Deploy.;Building+The+Web+Of+Tomorrow." />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-trivoren-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/trivoren)
+![Profile Views](https://img.shields.io/badge/Focus-Web%20%26%20Digital%20Products-7C8B6F?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Actively%20Building-A3B18A?style=flat-square)
 
-<p align="center">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/Web%20Development-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white">
-  <img src="https://img.shields.io/badge/UI%2FUX-FF61F6?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Technology-0066FF?style=for-the-badge&logo=code&logoColor=white">
-</p>
+</div>
 
----
+## 🚀 Trivoren
 
-# 🌐 About Trivoren
+### 🌐 About Trivoren
 
-**Trivoren** is a web development and technology team focused on creating modern, high-quality digital experiences for businesses, organizations, entrepreneurs and digital projects.
+Trivoren is a web development and technology team focused on creating modern, high-quality digital experiences for businesses, organizations, entrepreneurs and digital projects.
 
-We combine **development, design, technology, performance and strategy** to transform ideas into functional digital products.
+We combine development, design, technology, performance and strategy to transform ideas into functional digital products.
 
 Our work covers everything from professional business websites and landing pages to web applications, backend systems, APIs, databases, automation and modern digital platforms.
 
@@ -61,189 +50,164 @@ Our work covers everything from professional business websites and landing pages
 
 ---
 
-# 🧩 Our Specializations
+## 🧩 Our Specializations
 
 Trivoren works across multiple areas of modern software and web development.
 
 ```text
-🌐 Web Development
-🎨 UI / UX Design
-⚙️ Backend Development
-📱 Responsive Design
-🗄️ Database Development
-🔌 API Development
-☁️ Cloud & Deployment
-🐳 DevOps
-🔐 Web Security
-⚡ Performance Optimization
-🔎 SEO
-🤖 AI Integration
-🔧 Automation
-🛒 E-Commerce
-📊 Web Applications
-🏢 Business Solutions
-🚀 Digital Products
+🌐 Web Development       🎨 UI / UX Design        ⚙️ Backend Development
+📱 Responsive Design     🗄️ Database Development  🔌 API Development
+☁️ Cloud & Deployment    🐳 DevOps                🔐 Web Security
+⚡ Performance            🔎 SEO                   🤖 AI Integration
+🔧 Automation             🛒 E-Commerce            📊 Web Applications
+🏢 Business Solutions     🚀 Digital Products
 ```
 
 ---
 
-# 🌐 Web Development
+## 🌐 Web Development
 
 We create modern websites designed around the needs of each project.
 
-### What we build
+**What we build**
+- Business websites
+- Corporate websites
+- Landing pages
+- Portfolio websites
+- E-commerce websites
+- Web applications
+- Dashboards
+- Digital platforms
+- Custom web solutions
+- Interactive experiences
 
-* Business websites
-* Corporate websites
-* Landing pages
-* Portfolio websites
-* E-commerce websites
-* Web applications
-* Dashboards
-* Digital platforms
-* Custom web solutions
-* Interactive experiences
+**Frontend Technologies**
 
-### Frontend Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
+**Frameworks & Libraries**
 
-### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte" />
-</p>
+**Styling**
 
-### Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![styled--components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,materialui" />
-</p>
+**Build Tools**
 
-### Build Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vite,webpack,npm,pnpm,yarn" />
-</p>
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)
 
 ---
 
-# ⚙️ Backend Development
+## ⚙️ Backend Development
 
 We build backend systems that power modern applications.
 
-### Technologies
+**Technologies**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,php,java,spring" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-### Backend capabilities
-
-* REST APIs
-* Authentication
-* Authorization
-* Business logic
-* Server-side applications
-* Database integration
-* API integrations
-* Data processing
-* File management
-* Security
-* Validation
-* Error handling
-* Scalable architecture
-* Performance optimization
+**Backend capabilities**
+- REST APIs
+- Authentication & authorization
+- Business logic
+- Server-side applications
+- Database integration
+- API integrations
+- Data processing
+- File management
+- Security & validation
+- Error handling
+- Scalable architecture
+- Performance optimization
 
 ---
 
-# 🗄️ Databases
+## 🗄️ Databases
 
 We work with relational, NoSQL and cloud databases.
 
-### Database Technologies
+**Database Technologies**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,firebase,supabase" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### Database capabilities
-
-* Database architecture
-* Data modeling
-* CRUD systems
-* Relationships
-* Queries
-* Indexing
-* Data validation
-* Authentication
-* Database optimization
-* Data security
+**Database capabilities**
+- Database architecture & data modeling
+- CRUD systems & relationships
+- Queries & indexing
+- Data validation
+- Authentication
+- Database optimization
+- Data security
 
 ---
 
-# 🔌 APIs & Integrations
+## 🔌 APIs & Integrations
 
-Modern applications often need to communicate with external systems.
+Modern applications often need to communicate with external systems. Trivoren develops and integrates APIs for different types of digital solutions.
 
-Trivoren develops and integrates APIs for different types of digital solutions.
+**Technologies**
 
-### Technologies
+![REST](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-3C3C3D?style=flat-square&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,postman,graphql" />
-</p>
-
-### API Solutions
+**API Solutions**
 
 ```text
-REST APIs
-JSON
-HTTP
-Authentication
-OAuth
-JWT
-Webhooks
-Third-party APIs
-API Testing
-Data Validation
-Error Handling
-Rate Limiting
+REST APIs · JSON · HTTP · Authentication · OAuth · JWT
+Webhooks · Third-party APIs · API Testing
+Data Validation · Error Handling · Rate Limiting
 ```
 
 ---
 
-# 🎨 UI / UX Design
+## 🎨 UI / UX Design
 
-Development and design work together.
+Development and design work together. We create interfaces focused on usability, visual hierarchy and modern digital experiences.
 
-We create interfaces focused on usability, visual hierarchy and modern digital experiences.
+**Design Specializations**
+- UI Design & UX Design
+- Wireframes & prototypes
+- Design systems
+- Responsive interfaces
+- Landing pages & dashboards
+- User flows & navigation systems
+- Visual hierarchy & interaction design
+- Mobile interfaces
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-</p>
+**Design Tools**
 
-### Design Specializations
-
-* UI Design
-* UX Design
-* Wireframes
-* Prototypes
-* Design systems
-* Responsive interfaces
-* Landing pages
-* Dashboards
-* User flows
-* Navigation systems
-* Visual hierarchy
-* Interaction design
-* Mobile interfaces
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 
 ---
 
-# 📱 Responsive Design
+## 📱 Responsive Design
 
 Every Trivoren project is designed to provide a consistent experience across devices.
 
@@ -261,36 +225,30 @@ Every Trivoren project is designed to provide a consistent experience across dev
 ```
 
 We focus on:
-
-* Mobile-first design
-* Responsive layouts
-* Flexible components
-* Touch-friendly interfaces
-* Cross-browser compatibility
-* Accessibility
+- Mobile-first design
+- Responsive layouts
+- Flexible components
+- Touch-friendly interfaces
+- Cross-browser compatibility
+- Accessibility
 
 ---
 
-# ⚡ Performance
+## ⚡ Performance
 
 Performance is an essential part of our development process.
 
 We optimize applications and websites through:
+- Image optimization & lazy loading
+- Code splitting & asset optimization
+- Caching & CDN
+- Minification
+- Efficient JavaScript & CSS optimization
+- Rendering optimization
+- Core Web Vitals
+- Network optimization
 
-* Image optimization
-* Lazy loading
-* Code splitting
-* Asset optimization
-* Caching
-* CDN
-* Minification
-* Efficient JavaScript
-* CSS optimization
-* Rendering optimization
-* Core Web Vitals
-* Network optimization
-
-### Our goal
+**Our goal**
 
 ```text
 Fast websites
@@ -306,203 +264,146 @@ Better digital experiences
 
 ---
 
-# 🔐 Security
+## 🔐 Security
 
 Security is considered throughout the development process.
 
-### Security areas
-
-* Authentication
-* Authorization
-* JWT
-* Sessions
-* Password protection
-* Input validation
-* Data sanitization
-* CORS
-* HTTPS
-* Environment variables
-* Access control
-* Secure APIs
-* Secure database queries
-* Application security
+**Security areas**
+- Authentication & authorization
+- JWT & sessions
+- Password protection
+- Input validation & data sanitization
+- CORS & HTTPS
+- Environment variables
+- Access control
+- Secure APIs & secure database queries
+- Application security
 
 ---
 
-# ☁️ Cloud & Deployment
+## ☁️ Cloud & Deployment
 
 We deploy and manage modern web applications using cloud platforms and deployment services.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,aws,azure,cloudflare" />
-</p>
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-### Technologies
-
-* Vercel
-* Netlify
-* AWS
-* Azure
-* Cloudflare
-* CDN
-* DNS
-* SSL
-* CI/CD
-* Environment configuration
-* Production deployments
+Also covering: CDN · DNS · SSL · CI/CD · Environment configuration · Production deployments
 
 ---
 
-# 🐳 DevOps
+## 🐳 DevOps
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,bash" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### DevOps
-
-* Git workflows
-* CI/CD
-* Docker
-* Containers
-* Linux
-* Bash
-* Deployment automation
-* Environment management
-* Production configuration
-* Version control
+Also covering: Git workflows · Containers · Deployment automation · Environment management · Version control
 
 ---
 
-# 🤖 AI & Automation
+## 🤖 AI & Automation
 
 Trivoren explores the use of artificial intelligence and automation to create smarter digital products.
 
-### AI & Automation
-
 ```text
-🤖 AI Integrations
-🔌 AI APIs
-⚙️ Automation
-🧠 Intelligent Applications
-📊 Data Processing
-🔄 Automated Workflows
-💬 AI Interfaces
-🚀 AI-powered Products
+🤖 AI Integrations       🔌 AI APIs              ⚙️ Automation
+🧠 Intelligent Applications  📊 Data Processing   🔄 Automated Workflows
+💬 AI Interfaces         🚀 AI-powered Products
 ```
 
-### Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,nodejs" />
-</p>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
 
-# 🔎 SEO & Digital Optimization
+## 🔎 SEO & Digital Optimization
 
 We build websites with discoverability and performance in mind.
 
-### SEO
-
-* Semantic HTML
-* Metadata
-* Open Graph
-* Structured content
-* Sitemap
-* Robots.txt
-* Technical SEO
-* Mobile optimization
-* Performance
-* Accessibility
-* Search-friendly architecture
+- Semantic HTML & metadata
+- Open Graph
+- Structured content
+- Sitemap & robots.txt
+- Technical SEO
+- Mobile optimization
+- Performance & accessibility
+- Search-friendly architecture
 
 ---
 
-# 🛒 E-Commerce
+## 🛒 E-Commerce
 
 We can build digital commerce experiences including:
 
 ```text
-🛍️ Product Catalogs
-🛒 Shopping Carts
-👤 User Accounts
-📦 Product Management
-💳 Payment Integrations
-📊 Administration
-📈 Analytics
-🔐 Secure Authentication
+🛍️ Product Catalogs      🛒 Shopping Carts       👤 User Accounts
+📦 Product Management    💳 Payment Integrations 📊 Administration
+📈 Analytics             🔐 Secure Authentication
 ```
 
 ---
 
-# 📊 Web Applications
+## 📊 Web Applications
 
-Trivoren develops custom applications for different business and digital needs.
-
-Examples include:
-
-* Dashboards
-* Management systems
-* Internal tools
-* Customer portals
-* Administrative platforms
-* Data applications
-* Business tools
-* Productivity applications
-* SaaS platforms
+Trivoren develops custom applications for different business and digital needs. Examples include:
+- Dashboards & management systems
+- Internal tools & customer portals
+- Administrative platforms
+- Data applications & business tools
+- Productivity applications
+- SaaS platforms
 
 ---
 
-# 🧰 Our Technology Stack
+## 🧰 Our Technology Stack
 
-## Languages
+**Languages**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,php,bash" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## Frontend
+**Frontend**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,sass,bootstrap" />
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-## Backend
+**Backend**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,php,java,spring" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-## Databases
+**Databases**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase,supabase" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## Cloud & DevOps
+**Cloud & DevOps**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,aws,azure,cloudflare,docker,githubactions,linux" />
-</p>
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Development Tools
+**Development Tools & Design**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,npm,pnpm,yarn,bash,postman" />
-</p>
-
-## Design
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-</p>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-# 🛠️ Development Workflow
-
-Our development process is structured around building reliable and scalable products.
+## 🛠️ Development Workflow
 
 ```text
 01 ── DISCOVERY
@@ -528,41 +429,22 @@ Our development process is structured around building reliable and scalable prod
 
 ---
 
-# 📂 Our Projects
+## 📂 Our Projects
 
 Trivoren works on a variety of digital projects.
 
-### 🌐 Websites
-
-Professional websites designed for companies, businesses and organizations.
-
-### 🚀 Landing Pages
-
-Conversion-focused landing pages designed to communicate products and services effectively.
-
-### 📱 Web Applications
-
-Interactive applications designed around specific business and user requirements.
-
-### 🧰 Digital Tools
-
-Useful web-based tools designed to solve specific problems.
-
-### 🤖 AI Applications
-
-Modern applications that integrate artificial intelligence into digital workflows.
-
-### 🏢 Business Solutions
-
-Custom technology solutions designed around business processes and requirements.
+- 🌐 **Websites** — Professional websites designed for companies, businesses and organizations.
+- 🚀 **Landing Pages** — Conversion-focused landing pages designed to communicate products and services effectively.
+- 📱 **Web Applications** — Interactive applications designed around specific business and user requirements.
+- 🧰 **Digital Tools** — Useful web-based tools designed to solve specific problems.
+- 🤖 **AI Applications** — Modern applications that integrate artificial intelligence into digital workflows.
+- 🏢 **Business Solutions** — Custom technology solutions designed around business processes and requirements.
 
 ---
 
-# 🇨🇴 Colombia & Global Development
+## 🇨🇴 Colombia & Global Development
 
-Trivoren develops digital solutions for businesses and projects in **Colombia and internationally**.
-
-Our goal is to create technology that can work beyond a specific location.
+Trivoren develops digital solutions for businesses and projects in Colombia and internationally. Our goal is to create technology that can work beyond a specific location.
 
 ```text
 🇨🇴 Colombia
@@ -574,7 +456,7 @@ Our goal is to create technology that can work beyond a specific location.
 
 ---
 
-# 🧠 Our Philosophy
+## 🧠 Our Philosophy
 
 We believe technology should be:
 
@@ -595,47 +477,32 @@ Great Technology
 ```
 
 We don't build websites just to have a website.
-
-We build digital products designed to **serve a purpose, solve problems and create value**.
+We build digital products designed to serve a purpose, solve problems and create value.
 
 ---
 
-# 🚀 What We Aim To Build
+## 🚀 What We Aim To Build
 
 Our long-term vision includes building and contributing to:
 
 ```text
-🌐 Modern Web Platforms
-🚀 SaaS Products
-🤖 AI Applications
-🧠 Intelligent Systems
-📱 Digital Products
-🛒 E-Commerce Platforms
-⚙️ Business Automation
-📊 Data Platforms
-☁️ Cloud Applications
-🔧 Developer Tools
-🌎 Global Digital Solutions
+🌐 Modern Web Platforms   🚀 SaaS Products          🤖 AI Applications
+🧠 Intelligent Systems    📱 Digital Products        🛒 E-Commerce Platforms
+⚙️ Business Automation    📊 Data Platforms          ☁️ Cloud Applications
+🔧 Developer Tools        🌎 Global Digital Solutions
 ```
 
 ---
 
-# 📈 Continuous Improvement
+## 📈 Continuous Improvement
 
-Technology changes constantly.
-
-That's why Trivoren continuously explores:
-
-* New frameworks
-* New development tools
-* Modern architectures
-* AI technologies
-* Cloud platforms
-* Security practices
-* Performance techniques
-* UI/UX trends
-* Automation
-* Open-source technologies
+Technology changes constantly. That's why Trivoren continuously explores:
+- New frameworks & development tools
+- Modern architectures
+- AI technologies & cloud platforms
+- Security practices & performance techniques
+- UI/UX trends & automation
+- Open-source technologies
 
 ```text
 LEARN
@@ -651,59 +518,35 @@ REPEAT
 
 ---
 
-# 🤝 Collaboration
+## 🤝 Collaboration
 
-Trivoren is open to collaborating on interesting technology and digital projects.
+Trivoren is open to collaborating on interesting technology and digital projects. We are interested in:
 
-We are interested in:
-
-* Web development
-* Software projects
-* Digital products
-* Startups
-* Business websites
-* SaaS
-* AI projects
-* Automation
-* UI/UX
-* Open source
-* Technology partnerships
+Web development · Software projects · Digital products · Startups · Business websites
+SaaS · AI projects · Automation · UI/UX · Open source · Technology partnerships
 
 ---
 
-# 📊 GitHub
+## 📊 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TRIVOREN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TRIVOREN&theme=tokyonight&hide_border=true" />
-</p>
+![Trivoren's GitHub stats](https://github-readme-stats.vercel.app/api?username=trivoren&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C8B6F&icon_color=A3B18A&text_color=555555)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trivoren&layout=compact&hide_border=true&bg_color=00000000&title_color=7C8B6F&text_color=555555)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRIVOREN&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-</p>
+### 🏆 GitHub Trophies
 
----
+![Trivoren's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=trivoren&theme=onedark&no-frame=true&margin-w=8&column=7)
 
-# 🏆 GitHub Trophies
+### 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TRIVOREN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2" />
-</p>
+![Trivoren's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=trivoren&bg_color=00000000&color=7C8B6F&line=A3B18A&point=555555&hide_border=true)
+
+</div>
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TRIVOREN&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 💻 Technology at Trivoren
+## 💻 Technology at Trivoren
 
 ```text
 ┌───────────────────────────────────────────────────────────┐
@@ -733,72 +576,37 @@ We are interested in:
 
 ---
 
-# 🌟 Why Trivoren?
+## 🌟 Why Trivoren?
 
-### Modern
-
-We use modern technologies and development practices.
-
-### Scalable
-
-Our solutions are designed with future growth in mind.
-
-### Performance-focused
-
-We care about speed, efficiency and user experience.
-
-### Design-driven
-
-We believe great technology should also look great.
-
-### User-focused
-
-The final product should solve a real problem for real users.
-
-### Technology-focused
-
-We continuously explore new tools and technologies.
+| | |
+|---|---|
+| **Modern** | We use modern technologies and development practices. |
+| **Scalable** | Our solutions are designed with future growth in mind. |
+| **Performance-focused** | We care about speed, efficiency and user experience. |
+| **Design-driven** | We believe great technology should also look great. |
+| **User-focused** | The final product should solve a real problem for real users. |
+| **Technology-focused** | We continuously explore new tools and technologies. |
 
 ---
 
-# 🔥 Trivoren
+<div align="center">
 
-<p align="center">
+## 🔥 Trivoren
 
-### We don't just build websites.
+**We don't just build websites.**
+**We build digital experiences.**
+**We build digital products.**
+**We build technology.**
 
-### We build digital experiences.
+<br/>
 
-### We build digital products.
+<img src="./assets/trivoren-banner.jpg" alt="Trivoren - Web Development • Design • Technology • Digital Products" width="100%" />
 
-### We build technology.
+### 🌐 Connect With Trivoren
 
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-trivoren-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trivoren)
 
----
+**TRIVOREN**
+*Web Development • Design • Technology • Digital Products*
 
-# 🌐 Connect With Trivoren
-
-<p align="center">
-
-<a href="https://github.com/TRIVOREN">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<b>TRIVOREN</b>
-
-<br>
-
-<sub>Web Development • Design • Technology • Digital Products</sub>
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+</div>
