@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/trivoren-banner.jpg" alt="Trivoren - Custom Website Design & SEO Optimization" width="100%" />
+<img src="/trivoren-banner.jpg" alt="Trivoren - Custom Website Design & SEO Optimization" width="100%" />
 
 <br/>
 
@@ -596,7 +596,7 @@ SaaS · AI projects · Automation · UI/UX · Open source · Technology partners
 
 <br/>
 
-<img src="./assets/trivoren-banner.jpg" alt="Trivoren - Web Development • Design • Technology • Digital Products" width="100%" />
+<img src="/trivoren-banner.jpg" alt="Trivoren - Web Development • Design • Technology • Digital Products" width="100%" />
 
 ### 🌐 Connect With Trivoren
 
