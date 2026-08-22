@@ -531,12 +531,8 @@ SaaS · AI projects · Automation · UI/UX · Open source · Technology partners
 
 <div align="center">
 
-![Trivoren's GitHub stats](https://github-readme-stats.vercel.app/api?username=trivoren&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C8B6F&icon_color=A3B18A&text_color=555555)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trivoren&layout=compact&hide_border=true&bg_color=00000000&title_color=7C8B6F&text_color=555555)
-
-### 🏆 GitHub Trophies
-
-![Trivoren's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=trivoren&theme=onedark&no-frame=true&margin-w=8&column=7)
+![Trivoren's GitHub stats](https://github-stats-extended.vercel.app/api?username=trivoren&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C8B6F&icon_color=A3B18A&text_color=555555)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=trivoren&layout=compact&hide_border=true&bg_color=00000000&title_color=7C8B6F&text_color=555555)
 
 ### 📈 Contribution Graph
 
