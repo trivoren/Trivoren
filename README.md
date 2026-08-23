@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Assets/trivoren-banner.jpg" alt="Trivoren - Custom Website Design & SEO Optimization" width="100%" />
+<img src="./assets/trivoren-banner.jpg" alt="Trivoren - Custom Website Design & SEO Optimization" width="100%" />
 
 <br/>
 
@@ -527,6 +527,33 @@ SaaS · AI projects · Automation · UI/UX · Open source · Technology partners
 
 ---
 
+## 👥 Contributors
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/trivoren">
+        <img src="https://github.com/trivoren.png" width="100px;" alt="trivoren"/>
+        <br />
+        <sub><b>trivoren</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kraqinc">
+        <img src="https://github.com/kraqinc.png" width="100px;" alt="kraqinc"/>
+        <br />
+        <sub><b>kraqinc</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 📊 GitHub
 
 <div align="center">
@@ -596,7 +623,7 @@ SaaS · AI projects · Automation · UI/UX · Open source · Technology partners
 
 <br/>
 
-<img src="Assets/trivoren-banner.jpg" alt="Trivoren - Web Development • Design • Technology • Digital Products" width="100%" />
+<img src="./assets/trivoren-banner.jpg" alt="Trivoren - Web Development • Design • Technology • Digital Products" width="100%" />
 
 ### 🌐 Connect With Trivoren
 
