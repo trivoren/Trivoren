@@ -1,187 +1,213 @@
-<div align="center">
+# Álvaro García — `trivoren`
 
-<img src="./Assets/trivoren-banner.jpg" alt="Trivoren — Digital Systems, Software & Web Development" width="100%" />
+### Software Developer · Digital Product Builder · Frontend Specialist
 
-<br />
-
-# TRIVOREN
-
-### Digital experiences. Engineered to make an impact.
-
-**Freelance Developer · Digital Product Builder · AI-Powered Web Systems**
-
-<br />
-
-[![GitHub](https://img.shields.io/badge/GitHub-trivoren-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trivoren)
-[![Web Development](https://img.shields.io/badge/WEB-DEVELOPMENT-7C8B6F?style=for-the-badge)](#what-i-build)
-[![AI & Automation](https://img.shields.io/badge/AI-AND%20AUTOMATION-171717?style=for-the-badge&logo=openai&logoColor=white)](#technology)
-
-<br />
-
-*Based in Colombia · Working worldwide*
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,supabase,postgres,git,github,vercel,vscode" />
+</p>
 
 ---
 
-## Beyond websites.
+## About Me
 
-I’m **trivoren** — a freelance developer focused on building digital products that look sharp, work reliably, and solve real business problems.
+I'm **Álvaro García**, known as **`trivoren`**, a software developer with **3 years of experience** building digital products, web applications, mobile solutions, and business-oriented software systems.
 
-From conversion-focused websites and e-commerce experiences to custom tools, databases, and AI-powered systems, I turn ideas into useful technology. My approach combines thoughtful design, practical engineering, and a focus on what the product needs to achieve.
+My focus is frontend development across websites and applications for Android and iOS, combining interface development with the functionality required to turn an idea into a usable product.
 
-**Not just pages. Purpose-built digital products.**
+I enjoy building more than isolated web pages. I'm interested in complete digital experiences: platforms with a clear purpose, applications that solve practical problems, conversational AI, educational technology, and tools that help people make better decisions.
 
-## What I build
+My approach combines:
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Web experiences
-- Business and corporate websites
-- Landing pages built around clear calls to action
-- Professional portfolios for independent service providers
-- Responsive interfaces and custom UI
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 Commerce & business
-- E-commerce storefronts
-- Product catalogs and detail pages
-- WhatsApp-focused lead generation
-- QR menus and digital business experiences
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Software & systems
-- Web applications and dashboards
-- Database-backed tools
-- Admin panels and business workflows
-- APIs and integrations
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI-powered development
-- AI-assisted website generation
-- Faster digital product workflows
-- Automation and intelligent features
-- Custom solutions built around the use case
-
-</td>
-</tr>
-</table>
-
-## Selected work
-
-A few examples of the kinds of experiences I build. Replace the demo URLs below with your live projects.
-
-| Project | What it demonstrates | Preview |
-|---|---|---|
-| **E-commerce Experience** | Product discovery and online storefront design | [Live demo ↗](https://your-ecommerce-demo.vercel.app) |
-| **Professional Portfolio** | Service presentation and direct customer inquiries | [Live demo ↗](https://your-portfolio-demo.vercel.app) |
-| **Business Website** | Multi-page structure with WhatsApp-focused conversion paths | [Live demo ↗](https://your-business-demo.vercel.app) |
-
-## How I work
-
-```text
-01  UNDERSTAND
-    Define the goal, audience, and real business need.
-                     ↓
-02  DESIGN
-    Shape the structure, visual direction, and user journey.
-                     ↓
-03  BUILD
-    Develop the pages, interactions, and required functionality.
-                     ↓
-04  REFINE
-    Review details, responsiveness, and the overall experience.
-                     ↓
-05  SHIP
-    Prepare the project for deployment and real-world use.
-```
-
-## Technology
-
-I choose tools based on the project — prioritizing maintainability, performance, and the right fit over unnecessary complexity.
-
-**Core web**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Backend & data**
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Workflow & deployment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![AI-assisted development](https://img.shields.io/badge/AI--assisted-Development-7C8B6F?style=flat-square)
+- **Interface development** — responsive layouts, visual consistency, and user-focused experiences.
+- **Application development** — digital products designed around specific needs and workflows.
+- **Business software** — platforms, dashboards, and CRM-oriented systems.
+- **Product thinking** — understanding the problem behind the code.
+- **Continuous learning** — exploring technologies and improving through practical projects.
 
 ---
 
-## Building with AI: Numination
+# Featured Projects
 
-**Numination is an AI-powered website generation system I created.** It helps produce complete multi-page website systems in minutes — including e-commerce websites, professional portfolios, and business websites designed to generate inquiries through WhatsApp.
+Three projects that represent different sides of my work: artificial intelligence, educational technology, and practical mobile software.
 
-The idea is to move beyond one-off pages and accelerate the creation of connected digital experiences. I use Numination as part of my workflow, then refine each project around its purpose and requirements.
+## 01. Numination
+### AI-Powered Conversational Platform
 
-> **I don't build just one page. I build complete systems designed to generate business.**
+**Numination** is an artificial intelligence project built around conversational interaction. Inspired by modern AI assistants, it explores how people can communicate with technology naturally and use AI as part of their digital workflows.
 
-### Website packages
+The project represents my interest in building intelligent software experiences rather than limiting development to traditional websites.
 
-For clients looking to get online with a clear scope and upfront pricing:
+### Project vision
 
-| Package | Ideal for | Price |
-|---|---|---:|
-| **QR Menu** | Restaurants, cafés, and food businesses | **COP $180,000** |
-| **Professional Portfolio** | Barbers, nail artists, DJs, and independent professionals | **COP $250,000** |
-| **Multi-page Website** | Businesses that need service pages and WhatsApp inquiries | **COP $400,000** |
-| **E-commerce Website** | Businesses showcasing and selling products online | **COP $499,000** |
+The goal is to create an AI experience where users can interact through a conversational interface and use that interaction as the starting point for accomplishing tasks.
 
-<sub>Typical delivery: 24–48 hours, depending on scope, content readiness, and project requirements. Final scope and delivery time are confirmed before work begins.</sub>
+Numination is also connected to my broader interest in AI-assisted development and the creation of complete digital products.
 
-## A little about me
+### Key areas
 
-I work remotely from **Soledad / Barranquilla / Cartagena, Colombia**, collaborating with businesses and people who want to turn an idea into a real digital product.
+- Conversational user interface.
+- AI-centered digital experience.
+- Interaction between users and intelligent systems.
+- Interface design focused on clarity and usability.
+- Exploration of AI as a practical software tool.
 
-I value clean execution, direct communication, purposeful design, and technology that earns its place in a project. Whether the solution is a simple portfolio or a larger web system, the goal is the same: make it useful, make it clear, and make it work.
+### What this project represents
 
-### The principle behind every project
+Numination demonstrates my interest in the intersection of software development, user experience, and artificial intelligence. It reflects a product-oriented mindset: building an experience around how people interact with technology.
 
-<div align="center">
-
-## “I don't build just one page.
-## I build complete systems designed to generate business.”
-
-**— trivoren**
-
-</div>
-
-## Let's connect
-
-Have a project, a business idea, or a collaboration in mind?
-
-- **GitHub:** [github.com/trivoren](https://github.com/trivoren)
-- **Location:** Colombia · Available for remote projects worldwide
+**Category:** Artificial Intelligence · Conversational Software · Digital Products
 
 ---
 
-<div align="center">
+## 02. PasaelICFES
+### Educational Platform for Colombian Students
 
-![Profile Views](https://komarev.com/ghpvc/?username=trivoren&style=flat-square&color=7C8B6F&label=PROFILE+VIEWS)
+**PasaelICFES** is an educational platform conceived to help people in Colombia prepare for the ICFES exam.
 
-**TRIVOREN**  
-*Web development · Digital products · Software · AI*
+The project focuses on an important challenge: giving students a digital environment that supports their preparation and helps them work toward better academic performance.
 
-</div>
+Rather than being just another informational website, PasaelICFES is centered on an educational purpose and the needs of students preparing for an important academic assessment.
+
+### Project vision
+
+To provide a useful digital learning experience for Colombian students who want to strengthen their preparation for the ICFES exam.
+
+The idea is to make educational resources and preparation tools accessible through a platform designed around the student's experience.
+
+### Key areas
+
+- Educational technology.
+- ICFES exam preparation.
+- Student-focused digital experiences.
+- Web platform development.
+- Interface design for educational use.
+
+### What this project represents
+
+PasaelICFES reflects my interest in using technology to address real needs in education. It combines software development with a clear audience and purpose: supporting students as they prepare for an important stage of their academic journey.
+
+**Category:** EdTech · Education · Web Platforms · Colombia
+
+---
+
+## 03. ¿Cuánto Cobrar?
+### Mobile Application for Pricing Guidance
+
+**¿Cuánto Cobrar?** is an application developed using **Dart**, designed to help people estimate how much they should charge for their services.
+
+Setting a price can be difficult, especially for freelancers, independent professionals, and people who are starting their own businesses. Charging too little can undervalue their work, while setting a price without considering the situation can make it harder to compete.
+
+This project approaches that practical problem through a dedicated digital tool.
+
+### Project vision
+
+To help users make more informed pricing decisions by offering guidance when estimating what to charge for a service.
+
+The concept is focused on turning a common business question into a more accessible and structured digital experience.
+
+### Key areas
+
+- Application development with Dart.
+- Pricing guidance for services.
+- Practical tools for independent professionals.
+- User-oriented software design.
+- Digital solutions for everyday business decisions.
+
+### What this project represents
+
+¿CUÁNTO COBRAR? reflects my interest in creating software that serves a practical purpose. It connects application development with a real-world question faced by people who offer services and need to determine the value of their work.
+
+**Category:** Mobile Software · Dart · Business Tools · Pricing
+
+---
+
+## Development Focus
+
+### Frontend Development
+
+Building responsive interfaces and digital experiences with an emphasis on usability, structure, and visual consistency.
+
+### Web Applications
+
+Developing web-based products that go beyond static pages, with interfaces designed around specific workflows and user needs.
+
+### Mobile Applications
+
+Exploring application development for Android and iOS, including practical tools designed to solve focused problems.
+
+### Business Platforms & CRMs
+
+Creating digital systems for managing information, supporting workflows, and organizing business operations.
+
+### AI-Powered Products
+
+Exploring conversational AI and AI-assisted workflows as part of modern software development.
+
+---
+
+## Technology Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,dart" />
+</p>
+
+**Web & Programming**
+
+HTML · CSS · JavaScript · Python · Dart
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=supabase,postgres" />
+</p>
+
+**Backend & Data**
+
+Supabase · PostgreSQL
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+</p>
+
+**Development Tools**
+
+Git · GitHub · Vercel · Visual Studio Code
+
+---
+
+## Certifications & Training
+
+My training includes coursework and certifications in web development, programming, and complementary professional skills.
+
+- **Web Assistant** — foundational web development.
+- **Python Programming from Scratch** — introductory programming with Python.
+- **Responsive Website Developer** — responsive web development.
+- **Interactive Web Designer** — interactive web experiences.
+- **Dynamic Website Designer** — dynamic website development.
+- **SENA English — Module 1** — English language training.
+- **SENA — Commerce and Services** — professional training.
+
+---
+
+## My Development Philosophy
+
+I believe software should be built with a purpose.
+
+A good digital product is not defined only by its appearance or the technologies behind it. It should address a need, offer a clear experience, and provide a reason for people to use it.
+
+That is the mindset I bring to my projects: understand the problem, build the solution, refine the experience, and keep learning along the way.
+
+I'm interested in projects that challenge me to think beyond the interface and consider the complete product.
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://github.com/trivoren">
+    <img src="https://img.shields.io/badge/GitHub-trivoren-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+**Álvaro García · trivoren**
+
+Software Development · Web Applications · Mobile Apps · AI · Digital Products
+
